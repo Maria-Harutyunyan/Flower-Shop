@@ -1,3 +1,6 @@
+![Screenshot]![image](https://github.com/user-attachments/assets/fa2e9c33-2c73-436b-8e9d-0aa03eb45fa3)
+
+
 # 🌸 **Flower Shop**
 
 Welcome to **Flower Shop**, a beautifully designed and **_responsive_** online store built with **React** and **Firebase**.  
