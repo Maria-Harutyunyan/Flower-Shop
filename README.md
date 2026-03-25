@@ -1,16 +1,44 @@
-# React + Vite
+# 🌸 Bloomify - Premium Flower Shop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bloomify is a modern, elegant flower shop web application built with React.  
+It features a clean UI, smooth user experience, and realistic e-commerce functionality.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- 🌙 Dark / Light mode (with persistence)
+- 🛒 Shopping cart with quantity control
+- 💾 Cart & theme saved using localStorage
+- 🔍 Search functionality
+- 🎯 Filter by categories
+- 📊 Sort by price
+- 📱 Fully responsive design (mobile, tablet, desktop)
+- 🎨 Modern premium UI with styled-components
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React (Vite)
+- React Router DOM
+- Styled Components
+- Context API (State Management)
+- LocalStorage
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home]![alt text](image-3.png)
+
+### 🌸 Flowers Page
+![Flowers]![alt text](image-2.png)
+
+### 🌺 Flower Details
+![Details]![alt text](image-1.png)
+
+### 🛒 Cart Page
+![Cart]![alt text](image.png)
+---
