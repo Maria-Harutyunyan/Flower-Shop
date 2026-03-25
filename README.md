@@ -31,14 +31,14 @@ It features a clean UI, smooth user experience, and realistic e-commerce functio
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home]![alt text](image-3.png)
+![Home]!(./images/Home page.png)
 
 ### 🌸 Flowers Page
-![Flowers]![alt text](image-2.png)
+![Flowers]!(./images/Flowers page.png)
 
 ### 🌺 Flower Details
-![Details]![alt text](image-1.png)
+![Details]!(./images/Flowers Details page.png)
 
 ### 🛒 Cart Page
-![Cart]![alt text](image.png)
+![Cart]!(./images/Cart page.png)
 ---
